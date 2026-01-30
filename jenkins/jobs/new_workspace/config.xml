@@ -18,7 +18,10 @@
   <concurrentBuild>false</concurrentBuild>
   <builders>
     <hudson.tasks.Shell>
-      <command>cd python_pilot_project
+      <command>cd ..
+cd ..
+cd ..
+cd python_pilot_project
 python3 my_python_script.py</command>
       <configuredLocalRules/>
     </hudson.tasks.Shell>

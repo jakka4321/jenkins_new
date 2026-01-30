@@ -1,0 +1,11 @@
+Started by user unknown or anonymous
+Running as SYSTEM
+Building in workspace /home/coder/project/workspace/jenkins/workspace/new_workspace
+[new_workspace] $ /bin/sh -xe /tmp/jenkins8296428953879528446.sh
++ cd ..
++ cd ..
++ cd ..
++ cd python_pilot_project
++ python3 my_python_script.py
+2
+Finished: SUCCESS
